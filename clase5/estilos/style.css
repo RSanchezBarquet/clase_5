@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(16, 113, 16);
+    height: max-content;
+    width: 100%;
+    text-align: center;
+      
+}
+
+header h1{
+    color: black;
+}
+
+body{
+    background-color: rgb(29, 33, 28);
+    color: azure;
+}
+
+.footer{
+    background-color: rgb(16, 113, 16);
+    height: 60px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.form{
+    margin: 70px;
+    border: green 5px double;
+    background-color: azure;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+
+.dia{
+    font-weight: bold;
+    font-size: 25px ;
+}
+
+.hora{
+    
+    font-style: italic;
+    font-size: 18px;
+    
+}
+
+.lunes{
+    color: rgb(30, 30, 104);
+   
+}
+
+.martes{
+    color: rgb(211, 86, 55);
+  
+    
+}
+
+.miercoles{
+    color: rgb(26, 108, 6);
+   
+}
+
+.jueves{
+    color: rgb(121, 15, 89);
+   
+    
+}
+
+.viernes{
+    color: rgb(26, 110, 109);
+   
+}
+
+
+
